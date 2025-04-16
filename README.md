@@ -23,8 +23,9 @@
 - LinkedIn: [ayelmagambetov](https://www.linkedin.com/in/ayelmagambetov)
 ---
 
-![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat1ch&show_icons=true&theme=aura)
 <!--
+![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat1ch&show_icons=true&theme=aura) //
+
 **azamat1ch/azamat1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
