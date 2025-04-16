@@ -7,20 +7,16 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-41BDF5?style=flat-square&logo=chainlink&logoColor=white)
-![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apache&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLOps](https://img.shields.io/badge/-MLOps-0080FF?style=flat-square&logo=azure-pipelines&logoColor=white)
 
 ## Who I am?
-  * Data engineering professional based in Hong kong with 2+ years of experience
+  * Data / ML engineer based in Hong kong with 2+ years of experience
   * AWS certified professional (4x certified)
   * Passionate about emerging trends in Data Engineering, ML, and AI landscapes
 
 ## Education
 - **B.S. in Data Science (First Class Honours)** - City University of Hong Kong (2023)
-
-## Projects I am working on:
-- TBC
 
 ## Connect with Me
 - Email: ayelmagam@gmail.com
