@@ -1,5 +1,5 @@
 ## Hi there :)
-
+<!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
@@ -23,7 +23,7 @@
 - LinkedIn: [ayelmagambetov](https://www.linkedin.com/in/ayelmagambetov)
 ---
 
-<!--
+
 ![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat1ch&show_icons=true&theme=aura) //
 
 **azamat1ch/azamat1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
