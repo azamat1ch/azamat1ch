@@ -1,8 +1,8 @@
 ### Hey, I'm Azamat
 
-I make AI agents do things so I don't have to.
+AI Engineer, 2+ years in production. RAG pipelines, agent systems, data infra. Previously Data Engineer @ Fleet Management (Hong Kong). Currently MSc Fintech @ HKBU.
 
-AI Engineer with 2+ years building RAG pipelines, agent systems, and data infra in production. MSc Fintech @ HKBU, Hong Kong.
+I build AI tools and agents, mostly for my own workflows. Some of them end up here.
 
 #### Certifications
 
