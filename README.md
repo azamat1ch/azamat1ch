@@ -6,11 +6,11 @@ Senior AI Engineer. In my free time, I compete in AI competitions for fun.
 
 | | Competition | |
 |---|---|---|
-| 2nd of 6,425 | RSNA Knee Abnormality Detection, Kaggle (gold) | |
+| 2nd of 6,300 | RSNA Knee Abnormality Detection, Kaggle (gold) | [code](https://github.com/azamat1ch/rsna-knee-2nd-place) |
 | 3rd of 350 | Agentic Legal RAG Challenge, Machines Can See 2026 (solo) | [code](https://github.com/azamat1ch/difc-legal-rag) |
-| 3rd of 213 | CUHK-X Large Model Track, ACM UbiComp 2026 | |
-| 6th of 222 | BitGN PAC1, personal AI agents | [code](https://github.com/azamat1ch/pac1-filesystem-agent) |
-| Silver | Kaggriculture, Kaggle | |
+| 3rd, finals | CUHK-X Large Model Track, ACM UbiComp/ISWC 2026 | [code](https://github.com/azamat1ch/cuhk-x-large-3rd-place) |
+| 6th of 800+ | BitGN PAC1, personal AI agents | [code](https://github.com/azamat1ch/pac1-filesystem-agent) |
+| 94th of 10,148 | Kaggriculture, Kaggle (silver) | |
 
 #### Certifications
 
